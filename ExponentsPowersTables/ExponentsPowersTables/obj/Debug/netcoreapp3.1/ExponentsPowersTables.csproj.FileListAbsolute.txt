@@ -1,0 +1,12 @@
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/bin/Debug/netcoreapp3.1/ExponentsPowersTables.deps.json
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/bin/Debug/netcoreapp3.1/ExponentsPowersTables.runtimeconfig.json
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/bin/Debug/netcoreapp3.1/ExponentsPowersTables.runtimeconfig.dev.json
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/bin/Debug/netcoreapp3.1/ExponentsPowersTables.dll
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/bin/Debug/netcoreapp3.1/ExponentsPowersTables.pdb
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/obj/Debug/netcoreapp3.1/ExponentsPowersTables.csprojAssemblyReference.cache
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/obj/Debug/netcoreapp3.1/ExponentsPowersTables.AssemblyInfoInputs.cache
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/obj/Debug/netcoreapp3.1/ExponentsPowersTables.AssemblyInfo.cs
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/obj/Debug/netcoreapp3.1/ExponentsPowersTables.csproj.CoreCompileInputs.cache
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/obj/Debug/netcoreapp3.1/ExponentsPowersTables.dll
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/obj/Debug/netcoreapp3.1/ExponentsPowersTables.pdb
+/Users/kevinjacksonii/Projects/ExponentsPowersTables/ExponentsPowersTables/obj/Debug/netcoreapp3.1/ExponentsPowersTables.genruntimeconfig.cache
